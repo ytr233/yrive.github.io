@@ -100,6 +100,7 @@ header .container {
 header img {
     display: block;
     margin: 0 auto 20px;
+    object-position: bottom;
 }
 
 header .intro-text .name {
